@@ -1,6 +1,6 @@
 # ᝰ.ᐟ 3dos
 
-ELEGRAM CHANNEL LINK  (https://t.me/Bilalstudio2)
+TELEGRAM CHANNEL LINK  (https://t.me/Bilalstudio2)
 
 ## 🚨 Attention Before Running 3dos Cli Version
 
@@ -18,8 +18,8 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Clone Repository
 
 ```bash
-git clone https://github.com/Hunga9k50doker/3dos.git
-cd 3dos
+git clone https://github.com/bilalrai12/3Dos.git
+cd 3Dos
 ```
 
 - Install Dependency
